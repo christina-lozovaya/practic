@@ -1,0 +1,4 @@
+export const SET_AUTH_LOADING = 'AUTH_LOADING';
+export const LOGIN_USER = 'LOGIN_USER';
+export const REGISTER_USER = 'REGISTER_USER';
+export const GET_AUTH_ERRORS = 'GET_AUTH_ERRORS';
